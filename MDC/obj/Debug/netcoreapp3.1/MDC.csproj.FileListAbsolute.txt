@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.exe
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.deps.json
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.runtimeconfig.json
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.runtimeconfig.dev.json
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.dll
+C:\Users\Max\Desktop\MDC\MDC\bin\Debug\netcoreapp3.1\MDC.pdb
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.AssemblyInfo.cs
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.dll
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.pdb
+C:\Users\Max\Desktop\MDC\MDC\obj\Debug\netcoreapp3.1\MDC.genruntimeconfig.cache
